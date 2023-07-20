@@ -32,7 +32,6 @@ class DemoApplicationTests {
     @Value("${kafka.boostrap-servers}")
     private String kafkaserver;
 
-
     @Test
     void contextLoads() {
         System.out.println("kafka: " + kafkaserver);
