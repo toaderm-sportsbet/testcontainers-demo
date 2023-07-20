@@ -1,0 +1,2 @@
+kafka.boostrap-servers: "localhost:12345"
+elasticsearch.host: "http://localhost:9200"
